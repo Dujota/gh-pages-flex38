@@ -1,0 +1,12 @@
+.card {
+  text-align: center;
+}
+
+.card-body>button {
+  margin: 10px 0;
+  width: 70px;
+}
+
+#button-clear {
+  width: auto;
+}
